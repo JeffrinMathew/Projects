@@ -8,9 +8,10 @@ The OpenCV face recognition project in Python aims to detect faces in images and
 
 Functionality:
 
-The project offers the following functionality:
+- Detection of faces in images and videos
 
-Detection of faces in images and videos
-Recognition of faces by comparing them to a database of known faces
-Creation of a database of known faces
-Real-time face detection and recognition from a video stream
+- Recognition of faces by comparing them to a database of known faces
+
+- Creation of a database of known faces
+
+- Real-time face detection and recognition from a video stream
